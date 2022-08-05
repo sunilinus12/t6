@@ -1,4 +1,4 @@
-package com.t6.newarchitecture.components;
+package com.linust6.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

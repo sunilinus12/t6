@@ -1,4 +1,4 @@
-package com.t6.newarchitecture.modules;
+package com.linust6.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;

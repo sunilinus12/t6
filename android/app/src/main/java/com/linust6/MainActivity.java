@@ -1,4 +1,4 @@
-package com.t6;
+package com.linust6;
 
 import android.os.Build;
 import android.os.Bundle;

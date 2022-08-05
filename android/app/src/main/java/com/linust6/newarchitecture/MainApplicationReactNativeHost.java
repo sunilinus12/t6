@@ -1,4 +1,4 @@
-package com.t6.newarchitecture;
+package com.linust6.newarchitecture;
 
 import android.app.Application;
 import androidx.annotation.NonNull;
@@ -19,9 +19,9 @@ import com.facebook.react.fabric.CoreComponentsRegistry;
 import com.facebook.react.fabric.EmptyReactNativeConfig;
 import com.facebook.react.fabric.FabricJSIModuleProvider;
 import com.facebook.react.uimanager.ViewManagerRegistry;
-import com.t6.BuildConfig;
-import com.t6.newarchitecture.components.MainComponentsRegistry;
-import com.t6.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
+import com.linust6.BuildConfig;
+import com.linust6.newarchitecture.components.MainComponentsRegistry;
+import com.linust6.newarchitecture.modules.MainApplicationTurboModuleManagerDelegate;
 import java.util.ArrayList;
 import java.util.List;
 
